@@ -19,3 +19,5 @@ install.packages("svglite",repos="http://cran.rstudio.com/")
 install.packages('reshape',repos='http://cran.rstudio.com')
 install.packages('base64enc',repos='http://cran.rstudio.com')
 
+install.packages('stringr',repos='http://cran.rstudio.com')
+install.packages('grid',repos='http://cran.rstudio.com')
