@@ -16,4 +16,5 @@ install.packages("random",repos='http://cran.rstudio.com')
 
 install.packages("dplyr",repos="http://cran.rstudio.com/")
 install.packages("svglite",repos="http://cran.rstudio.com/")
+install.packages('reshape',repos='http://cran.rstudio.com')
 
